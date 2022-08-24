@@ -1,0 +1,3 @@
+D:\Genesys\ExpressApp2\obj\Debug\GenesysNodejsApp.njsprojAssemblyReference.cache
+D:\Genesys\ExpressApp2\obj\Debug\GenesysNodejsApp.njsproj.CoreCompileInputs.cache
+D:\Genesys\ExpressApp2\bin\Microsoft.NodejsTools.WebRole.dll
